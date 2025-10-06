@@ -184,6 +184,7 @@ VALUES (
 - All other features (body controls, clothing catalog, presets) work without Unity
 - The application uses Supabase for data persistence
 - Row Level Security (RLS) is enabled on all tables
+- Unity does not exist yet (please don't ask)
 
 ## Support
 
